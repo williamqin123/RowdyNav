@@ -1,2 +1,1 @@
-# diegosanpedro
 # RowdyNav
